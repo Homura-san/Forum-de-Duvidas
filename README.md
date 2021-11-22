@@ -10,4 +10,4 @@ Em breve, esse será um fórum de perguntas e respostas  de um produto fictício
 Até breve,
 Em Desenvolvimento.
 
-<a href="https://homura-san.github.io/Forum-de-Duvidas/form">Clique para abrir o form</a>
+<a href="https://homura-san.github.io/Forum-de-Duvidas/form">Clique para abrir o formulário</a>

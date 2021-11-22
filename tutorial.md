@@ -1,14 +1,13 @@
 ## Tutorial de Funcionamento
 
-You can use the [editor on GitHub](https://github.com/Homura-san/formul-rio0/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files. 
+Tutorial de Funcionamento
+Você pode usar o editor no GitHub para manter e visualizar o conteúdo do seu site em arquivos Markdown.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Sempre que você se compromete com este repositório, GitHub Pages irá executar Jekyll para reconstruir as páginas em seu site, a partir do conteúdo em seus arquivos Markdown.
 
-### Markdown
+Markdown
+Markdown é uma sintaxe leve e fácil de usar para estilizar sua escrita. Inclui convenções para
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
 Syntax highlighted code block
 
 # Header 1
@@ -24,18 +23,14 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 Em breve, esse será um fórum que utilizarei para avaliações futuras de minha disciplina do curso.
 
+Para obter mais detalhes, consulte Sintaxe básica de escrita e formatação .
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Temas Jekyll
+Seu site Pages usará o layout e estilos do tema Jekyll que você selecionou nas configurações do seu repositório . O nome deste tema é salvo no _config.ymlarquivo de configuração do Jekyll .
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Homura-san/formul-rio0/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Suporte ou contato
+Está tendo problemas com o Pages? Verifique nossa documentação ou entre em contato com o suporte e nós o ajudaremos a resolver o problema.
 
 <a href="https://homura-san.github.io/Forum-de-Duvidas/">Voltar para o Início</a>

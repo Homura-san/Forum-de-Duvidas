@@ -9,5 +9,5 @@ Em breve, esse site vai mudar muito, e vou melhorar esse futuro site cada vez ma
 Em breve, esse será um fórum de perguntas e respostas  de um produto fictício e  espero que seja benéfico e produtivo para ambos!
 Até breve,
 Em Desenvolvimento.
-Cadastro</title>
+
 <a href="https://homura-san.github.io/Forum-de-Duvidas/form">Clique para abrir o form</a>

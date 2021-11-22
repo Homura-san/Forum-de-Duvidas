@@ -1,6 +1,6 @@
 # Formulário
 
-<a href="https://homura-san.github.io/Forum-de-Duvidas/tutorial.md">Tutorial</a>
+<a href="https://homura-san.github.io/Forum-de-Duvidas/tutorial">Clique para abrir o tutorial</a>
 
 Esse será o meu futuro site, espero aprender a mexer nesse sistema de desenvolvimento.
 Estou tentando editar melhor e visualizar a página criada, mas isso ainda é difícil para mim.

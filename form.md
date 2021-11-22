@@ -1,4 +1,4 @@
-Cadastro</title>
+<title>Cadastro</title>
 <div>
     <h1 id="titulo">Cadastro de DEVs</h1>
     <p id="subtitulo">Complete suas informações</p>

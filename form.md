@@ -4,7 +4,7 @@
     <br>
 </div>
 
-<form>
+<form action="https://github.com/Homura-san/Forum-de-Duvidas/form-dados.md" method="post">
     <fieldset class="grupo">
         <div class= "campo">
             <label for="nome"><strong>Nome</strong></label>

@@ -1,6 +1,5 @@
 ## Tutorial de Funcionamento
 
-Tutorial de Funcionamento
 Você pode usar o editor no GitHub para manter e visualizar o conteúdo do seu site em arquivos Markdown.
 
 Sempre que você se compromete com este repositório, GitHub Pages irá executar Jekyll para reconstruir as páginas em seu site, a partir do conteúdo em seus arquivos Markdown.
@@ -23,6 +22,8 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+''
+
 Em breve, esse será um fórum que utilizarei para avaliações futuras de minha disciplina do curso.
 
 Para obter mais detalhes, consulte Sintaxe básica de escrita e formatação .

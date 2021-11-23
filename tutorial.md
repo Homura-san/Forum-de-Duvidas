@@ -20,9 +20,9 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ''
+[Link](url) and ![Image](src)
+
 
 Em breve, esse será um fórum que utilizarei para avaliações futuras de minha disciplina do curso.
 

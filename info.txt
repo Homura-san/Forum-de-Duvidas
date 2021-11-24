@@ -1,3 +1,0 @@
-git add .
-git commit -m "exemplo de alt."
-git push origin master (evitar usar a master, usar clones) ---- (sibst. master pelo nome da branch)
